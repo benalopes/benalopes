@@ -19,4 +19,9 @@ Sou estudante em desenvolvimento Android e apaixonado por tecnologia.
 
 ## 📫 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benildo-lopes-824a37319/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benildo_lopes/profilecard/?igsh=bHRwOWtwYnN1emFr) 
+
+ 
+
+
 
